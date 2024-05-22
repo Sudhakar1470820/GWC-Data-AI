@@ -42,13 +42,13 @@ const TodoApp = () => {
     inProgress: [
       {
         id: 5,
-        todo: "Do something nice for someone I care about",
+        todo: "Solve a Rubik's cube",
         completed: true,
         userId: 26,
       },
       {
         id: 6,
-        todo: "Memorize the fifty states and their capitals",
+        todo: "Bake pastries for me and neighbor",
         completed: false,
         userId: 48,
       },
@@ -56,17 +56,17 @@ const TodoApp = () => {
     done: [
       {
         id: 9,
-        todo: "Do something nice for someone I care about",
+        todo: "Go see a Broadway production",
         completed: true,
         userId: 26,
       },
       {
         id: 10,
-        todo: "Memorize the fifty states and their capitals",
+        todo: "Write a thank you letter to an influential person in my life",
         completed: false,
         userId: 48,
       },
-      { id: 11, todo: "Watch a classic movie", completed: false, userId: 4 },
+      { id: 11, todo: "Invite some friends over for a game night", completed: false, userId: 4 },
     ],
   });
 
